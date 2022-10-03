@@ -141,10 +141,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | student 1 Tijn     | student 2  Daphne        | student 3  Leanne  | student 4  Betoel (ik)      |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
+  | ---            | ---                | ---          | Is de basis van mijn html goed? |
+  | dit bespreken  | en dit             | en ik dit    | Hoe pak ik de 3 navigaties aan?    |
+  | en dat ook nog | dit als er tijd is | nog een punt | Is de huidige section verdeling goed? |
+ 
 
 
   ### Verslag van meeting
@@ -174,8 +174,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | student 1 Jade      | student 2  Daphne        | student 3 Leanne   | student 4  Betoel (ik)      |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | ---            | ---                | ---          | ---              | Hoe kan ik een openklapbare nav maken in js?
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    | Css carousel effect
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
@@ -278,8 +278,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   samen met je groepje opstellen
 
   | student 1 Tijn     | student 2   Daphne       | student 3  Leanne  | student 4   Betoel (ik)     |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
+  | ---            | ---                | ---          | ---              | Hoe kan je een carousel in een oneindige loop coderen?
+  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    | Nav aanvullen met iconen?
   | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
   | ...            | ...                | ...          | ...              |
 
