@@ -1,7 +1,7 @@
-// JavaScript Document
+// JavaScript Document - met ondersteuning van Sanne nav werkend gekregen!)
 console.log("hi");
 
-var menuButton = document.querySelector("header button");
+var menuButton = document.querySelector("header li:nth-of-type(4) button");
 // var buttonOpen
 
 menuButton.addEventListener("click", openMenu);

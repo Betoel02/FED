@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before {
+	box-sizing: border-box;
+	margin: 0;
+}
+
+button,
+summary {
+	cursor: pointer;
+}
+
+:root {
+	--color-text-black: #111;
+	--color-background-white: #fff;
+	--color-background-white: #fff;
+	--color-background-black:#000;
+	--color-text-white: #fff;
+	--color-text-gray: #666666;
+}
+
+body {
+	color: var(--color-text);
+	background-color: var(--color-background);
+	font-family: Futura, Trebuchet MS, Arial, sans-serif;
+}
+
+h2 {
+	font-weight: 500;
+	padding: 1em;
+}
+
+
+
+
+
+main > section {
+	padding-bottom: 2.5em;
+}

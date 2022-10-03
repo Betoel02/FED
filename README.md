@@ -8,8 +8,6 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 
 
-
-
 ## Jij
 
 <details open>
@@ -22,7 +20,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   #### Je focus:
   ---- (kies uit responsive óf surface plane.)
-  Mijn focus ligt op surface plane, als ik tijd over hou werk ik eventueel verder toe aan responsive. 
+  Mijn focus ligt op surface plane, als ik tijd over hou werk ik eventueel verder naar responsive toe. 
 
 </details>
 
@@ -35,9 +33,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Je opdracht:
   https://www.dolcegabbana.com/en/
   
-  Ze hebben ondertussen meerdere aanpassingen doorgevoerd qua opmaak. Wel heb ik een Adobe XD file met daarin screenshots van de schermen die ik zo veel mogelijk probeer na te maken.
+  Ze hebben ondertussen meerdere aanpassingen doorgevoerd qua opmaak. Wel heb ik een Adobe XD file met daarin screenshots van de schermen die ik zoveel mogelijk probeer te realiseren.
 
-  Link: https://xd.adobe.com/view/23c7a785-c879-4b20-b483-35677b092a51-7694/
+  Home pagina
+  https://xd.adobe.com/view/23c7a785-c879-4b20-b483-35677b092a51-7694/
+
+  Product pagina
+  https://xd.adobe.com/view/d734fb4d-3832-4a4a-a09f-64595f895792-8267/
   
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home   
@@ -68,10 +70,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <img src="readme-images/IMG_2230.jpg" width="375px" alt="omschrijving van de pagina">
 
   3. Peripheral Field Loss #0775P zorgde voor een redelijke tot grote belemmering voor de gebruiker. Zicht over de site was matig, maar dit kwam voornamelijk door de beperkte beeld en de hoeveelheid breedte de gebruiker kon waarnemen. Knoppen waren lastiger te spotten, ook omdat DC aanzienlijk kleinere knoppen heeft dan een gemiddelde site.
-  <img src="readme-images/IMG_2195.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/IMG_2195.jpg" width="375px">
 
   4. Ballon voor ADHD en gebruikers met slechte concentratie span, was de site wel prima te bedienen. Visueel waren er geen belemmeringen. En over het algeel kan de gebruiker door de 2 losse navigatie balken(3 eigenlijk) sneller producten vinden door de geavanceerde menu opties die gecategoriseerd zijn.
-  <img src="readme-images/IMG_2216.jpg" width="375px" alt="omschrijving van de pagina">
+  <img src="readme-images/IMG_2216.jpg" width="375px">
 
   5.   
 
@@ -79,7 +81,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   #### Screenreader
   Hier korte omschrijving (met indien nodig afbeeldingen)
 
+  Over het algemeen is het wel prima, op sommige afbeeldingen lijkt het soms onnodige data te benoemen, of informatie die eerder is benoemd aan de hand van de kopjes.
+
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
+
+  Hoe dit opgelost kan worden is door bijvoorbeeld afbeel
 
 
   #### Muis en Toetsenbord 
@@ -105,21 +111,20 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
 ## Breakdownschets (week 1)
 
+<img src="readme-images/breakdownschets.png">
+
 <details>
   <summary>uitwerken na afloop 2e werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  
 
   ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
-
-
 
 
 
@@ -145,10 +150,8 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
+  - ul mag ook los gebruikt worden hoeft niet altijd in een section. 
+  - button tag vervangen met a href aangezien ze qua styling er ook zo uitzien.
 
   /////////////ZIE DOCUMENTATIE IN DOCS - NIET VERGETEN HIERIN TOEVOEGEN
 
@@ -180,10 +183,9 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
+  - Een werkende nav met ondersteuning van Sanne
+  - Hoe je een gradient kunt toevoegen aan een afbeelding en eventuele effecten
+  - Css nog verder ordenen.
 
 /////////////ZIE DOCUMENTATIE IN DOCS - NIET VERGETEN HIERIN TOEVOEGEN
 
@@ -230,6 +232,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   Hier een omschrijving van hoe het opgelost kan worden (met indien nodig afbeeldingen)
   ----Dit nog uitwerken
 
+<img srrc="readme-images/test_ronde_2/IMG_5164.jpg" width="375px">
+
+<img srrc="readme-images/test_ronde_2/IMG_5169.jpg" width="375px">
+
+<img srrc="readme-images/test_ronde_2/IMG_5171.jpg" width="375px">
+
+<img srrc="readme-images/test_ronde_2/IMG_5173.jpg" width="375px">
+
+<img srrc="readme-images/test_ronde_2/IMG_5174.jpg" width="375px">
+
   1. Trichroacy normaal - prima
   2. Blue cone - contrast is gewoon prima, teksten zijn goed leesbaar.
   3. Monochromacy - zwart wit contrast is prima misschien linkjes met shop man 
@@ -275,11 +287,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
 
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-  
+  - Details tag gebruiken bij de footer om het plusje te kunnen maken.
+  - Nav verbeteren mbt responsiveness
+  - Hoe maak je een carousel in een oneindige loop? - blijkbaar is dit wel een lastige oplossing, dus verder niet besproken tijdens de meeting.
+  - Nav in ul stoppen als je  iconen wilt aanvullen.
+
   /////////////ZIE DOCUMENTATIE IN DOCS - NIET VERGETEN HIERIN TOEVOEGEN
 
 </details>
@@ -320,8 +332,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg).
 
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+  2. https://stackoverflow.com/questions/16211326/could-i-use-a-in-ul-around-li
 
 </details>
